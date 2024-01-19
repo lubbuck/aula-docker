@@ -27,7 +27,7 @@ Aqui estão as ferramentas necessárias para rodar este projeto
 - [Git](https://git-scm.com/downloads)
 - [Docker](https://www.docker.com/get-started/)
 
-<h3>Comandos para Rodar o projeto</h3>
+<h3>Comandos para Rodar o Projeto</h3>
 
 ```bash
 docker build -t viacep .
